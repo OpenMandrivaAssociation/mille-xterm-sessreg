@@ -8,7 +8,6 @@ License:	GPL
 Group:		System/Servers
 URL:		http://www.revolutionlinux.com/mille-xterm
 Source:		mille-xterm-sessreg-%{version}.tar.bz2
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 This program replaces sessreg by a statically linked version that does not
