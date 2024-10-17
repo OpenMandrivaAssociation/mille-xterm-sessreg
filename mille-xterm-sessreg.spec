@@ -6,7 +6,7 @@ Version:	1.0
 Release:	%mkrel 0.%{svn}.3
 License:	GPL
 Group:		System/Servers
-URL:		http://www.revolutionlinux.com/mille-xterm
+URL:		https://www.revolutionlinux.com/mille-xterm
 Source:		mille-xterm-sessreg-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
