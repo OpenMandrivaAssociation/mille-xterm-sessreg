@@ -3,7 +3,7 @@
 Summary:	X session register for the MILLE-XTERM project
 Name:		mille-xterm-sessreg
 Version:	1.0
-Release:	%mkrel 0.%{svn}.3
+Release:	0.%{svn}.4
 License:	GPL
 Group:		System/Servers
 URL:		https://www.revolutionlinux.com/mille-xterm
